@@ -27,6 +27,9 @@ export const metadata: Metadata = {
     "Website Redesign",
   ],
   authors: [{ name: "Bhushitha Arunod Rathnayaka" }],
+    verification: {
+    google: "W3cuBek9oTQ4wCAnWvgRnmeU46EEG-w6UqnmDZ9iok0",
+  },
   openGraph: {
     title: "Bhushitha Arunod Rathnayaka | Web Developer & Designer",
     description: "Modern, fast, and responsive websites for your business.",
