@@ -5,7 +5,7 @@ import { AnimatePresence, MotionConfig, motion } from "framer-motion";
 
 /* ----------------------------- CONTENT / CONFIG ---------------------------- */
 
-const HERO_IMAGE = "/me.jpg";
+const HERO_IMAGE = "/Myweb/me.jpg";
 const ABOUT_IMAGE =
   "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1000&q=80";
 const PROCESS_IMAGE =
