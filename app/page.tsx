@@ -544,7 +544,7 @@ function Contact() {
 
   const details = [
     { icon: "mail", label: "Email", value: EMAIL, href: `mailto:${EMAIL}` },
-    { icon: "phone", label: "Phone", value: PHONE_DISPLAY, href: "tel:+94764228985" },
+    { icon: "phone", label: "Phone", value: PHONE_DISPLAY, href: "tel:+94787228985" },
     { icon: "chat", label: "WhatsApp", value: PHONE_DISPLAY, href: WHATSAPP },
     { icon: "pin", label: "Location", value: "Monaragala, Uva Province, Sri Lanka", href: undefined },
   ];
