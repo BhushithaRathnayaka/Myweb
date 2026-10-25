@@ -13,8 +13,8 @@ const PROCESS_IMAGE =
 
 const TAGLINE = "Modern, fast, and responsive websites for your business";
 const EMAIL = "bhushithaarunod@gmail.com";
-const PHONE_DISPLAY = "0764228985";
-const WHATSAPP = "https://wa.me/94764228985";
+const PHONE_DISPLAY = "0787228985";
+const WHATSAPP = "https://wa.me/94787228985";
 
 const NAV = ["Home", "About", "Services", "Projects", "Contact"];
 
